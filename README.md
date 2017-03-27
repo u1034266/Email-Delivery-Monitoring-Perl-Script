@@ -1,7 +1,5 @@
 # Email Delivery Monitoring Via Linux Server
-This simple script was written in perl.
-
-- Author: David Tekwie <tekwie.david@gmail.com>
+This simple script is written in perl. It can be run manually or via cron scheduling.
 
 ## Disclaimer
 The author is the original creator of this script. This script is being shared for information and/or educational purposes 

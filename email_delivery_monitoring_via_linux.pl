@@ -73,7 +73,7 @@ my $mail_dir = '/home/user/path/to/Maildir/new/'; # Note: This path depends on h
 # Email Monitoring
 my $url = 'http://yourAppUrl.com/path/to/webservice?.......&emailaddress=' . $recipient;
 # Error Notifications
-my $url2 = 'http://yourAppUrl.com/path/to/webservice?.......&errorMsg=' . $error_emailMsg . '&clientid=248108&spconfigID=8&emailaddress=' . $notifications;
+my $url2 = 'http://yourAppUrl.com/path/to/webservice?.......&errorMsg=' . $error_emailMsg . '...&emailaddress=' . $notifications;
 # ======================================= / For Dev =======================================
 
 # Turn off bufferring.
