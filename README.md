@@ -1,5 +1,6 @@
 # Email Delivery Monitoring Via Linux Server
-This membership portal was created using Laravel 5.4
+This simple script was written in perl.
+
 - Author: David Tekwie <tekwie.david@gmail.com>
 
 ## Disclaimer
